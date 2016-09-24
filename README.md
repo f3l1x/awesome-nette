@@ -18,6 +18,7 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 
 > Alphabetical order
 
+- [Assets](#assets)
 - [Database](#database)
 - [Forms](#forms)
 - [Latte](#latte)
@@ -25,6 +26,14 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 
 -----
 
+## Assets
+
+| Github | CI | Downloads | Composer | Description |
+|--------|----|-----------|----------|-------------|
+|[janmarek/webloader](https://componette.com/janmarek/webloader)|[![Build Status](https://img.shields.io/travis/janmarek/WebLoader.svg?style=flat-square)](https://travis-ci.org/janmarek/WebLoader)|[![Downloads total](https://img.shields.io/packagist/dt/janmarek/WebLoader.svg?style=flat-square)](https://packagist.org/packages/janmarek/webloader)|`janmarek/webloader`|Nette Framework addon for CSS and JS files loading|
+
 ## Database
 
-- [Kdyby\Doctrine](https://componette.com/kdyby/doctrine/) - Doctrine 2 ORM integration into Nette Framework
+| Github | CI | Downloads | Composer | Description |
+|--------|----|-----------|----------|-------------|
+|[kdyby/doctrine](https://componette.com/kdyby/doctrine/)|[![Build Status](https://img.shields.io/travis/Kdyby/Doctrine.svg?style=flat-square)](https://travis-ci.org/Kdyby/Doctrine)|[![Downloads total](https://img.shields.io/packagist/dt/kdyby/doctrine.svg?style=flat-square)](https://packagist.org/packages/kdyby/doctrine)|`kdyby/doctrine`|Doctrine 2 ORM integration into Nette Framework|
