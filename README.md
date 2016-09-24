@@ -21,6 +21,7 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 - [Assets](#assets)
 - [Database](#database)
 - [Forms](#forms)
+- [Grids](#grids)
 - [Latte](#latte)
 - [Tracy](#tracy)
 
@@ -37,3 +38,9 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 | Github | CI | Downloads | Composer | Description |
 |--------|----|-----------|----------|-------------|
 |[kdyby/doctrine](https://componette.com/kdyby/doctrine/)|[![Build Status](https://img.shields.io/travis/Kdyby/Doctrine.svg?style=flat-square)](https://travis-ci.org/Kdyby/Doctrine)|[![Downloads total](https://img.shields.io/packagist/dt/kdyby/doctrine.svg?style=flat-square)](https://packagist.org/packages/kdyby/doctrine)|`kdyby/doctrine`|Doctrine 2 ORM integration into Nette Framework|
+
+## Grids
+
+| Github | CI | Downloads | Composer | Description |
+|--------|----|-----------|----------|-------------|
+|[o5/grido](https://componette.com/o5/grido/)|[![Build Status](https://img.shields.io/travis/o5/grido.svg?style=flat-square)](https://travis-ci.org/o5/grido)|[![Downloads total](https://img.shields.io/packagist/dt/o5/grido.svg?style=flat-square)](https://packagist.org/packages/o5/grido)|`o5/grido`|Grido - DataGrid for Nette Framework|
