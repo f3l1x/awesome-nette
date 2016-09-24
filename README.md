@@ -44,3 +44,4 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 | Github | CI | Downloads | Composer | Description |
 |--------|----|-----------|----------|-------------|
 |[o5/grido](https://componette.com/o5/grido/)|[![Build Status](https://img.shields.io/travis/o5/grido.svg?style=flat-square)](https://travis-ci.org/o5/grido)|[![Downloads total](https://img.shields.io/packagist/dt/o5/grido.svg?style=flat-square)](https://packagist.org/packages/o5/grido)|`o5/grido`|Grido - DataGrid for Nette Framework|
+|[ublaboo/datagrid](https://componette.com/ublaboo/datagrid/)|[![Build Status](https://img.shields.io/travis/ublaboo/datagrid.svg?style=flat-square)](https://travis-ci.org/ublaboo/datagrid)|[![Downloads total](https://img.shields.io/packagist/dt/ublaboo/datagrid.svg?style=flat-square)](https://packagist.org/packages/ublaboo/datagrid)|`ublaboo/datagrid`|DataGrid for Nette Framework: filtering, sorting, pagination, tree view, table view, translator|
