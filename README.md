@@ -38,6 +38,7 @@ A list of awesome [Nette](https://nette.org) extensions, plugins and utils.
 | Github | CI | Downloads | Composer | Description |
 |--------|----|-----------|----------|-------------|
 |[kdyby/doctrine](https://componette.com/kdyby/doctrine/)|[![Build Status](https://img.shields.io/travis/Kdyby/Doctrine.svg?style=flat-square)](https://travis-ci.org/Kdyby/Doctrine)|[![Downloads total](https://img.shields.io/packagist/dt/kdyby/doctrine.svg?style=flat-square)](https://packagist.org/packages/kdyby/doctrine)|`kdyby/doctrine`|Doctrine 2 ORM integration into Nette Framework|
+|[tharos/leanmapper](https://componette.com/tharos/leanmapper/)|[![Build Status](https://img.shields.io/travis/Tharos/LeanMapper.svg?style=flat-square)](https://travis-ci.org/Tharos/LeanMapper)|[![Downloads total](https://img.shields.io/packagist/dt/tharos/leanmapper.svg?style=flat-square)](https://packagist.org/packages/tharos/leanmapper)|`tharos/leanmapper`|Lean Mapper is a tiny ORM based on powerful dibi database abstraction library for PHP 5.|
 
 ## Grids
 
